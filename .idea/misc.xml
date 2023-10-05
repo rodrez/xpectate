@@ -8,4 +8,5 @@
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (xpectate)" project-jdk-type="Python SDK" />
 </project>

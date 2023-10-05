@@ -2,7 +2,7 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Python" name="Python facet">
-      <configuration sdkName="Python 3.11 (xpectator)" />
+      <configuration sdkName="Poetry (xpectate)" />
     </facet>
   </component>
   <component name="NewModuleRootManager">
@@ -10,8 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Poetry (xpectate)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Python 3.11 (xpectator) interpreter library" level="application" />
+    <orderEntry type="library" name="Poetry (xpectate) interpreter library" level="application" />
   </component>
 </module>

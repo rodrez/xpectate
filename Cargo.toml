@@ -11,3 +11,9 @@ pyo3 = { version = "0.19.2", features = ["extension-module"] }
 log = { version = "0.4.20", features = [] }
 env_logger = "0.10.0"
 
+[lib]
+# The name of the native library. This is the name which will be used in Python to import the
+# library (i.e. `import string_sum`). If you change this, you must also change the name of the
+# `#[pymodule]` in `src/lib.rs`.
+name = "xpectate"
+crate-type = [ "cdylib" ]
