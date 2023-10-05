@@ -1,0 +1,13 @@
+[package]
+name = "xpectator"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+notify = "6.1.1"
+pyo3 = { version = "0.19.2", features = ["extension-module"] }
+log = { version = "0.4.20", features = [] }
+env_logger = "0.10.0"
+

@@ -1,0 +1,13 @@
+[build-system]
+requires = ["maturin"]
+build-backend = "maturin"
+
+[project]
+name = "xpectate"
+version = "0.1.0"
+authors = [
+    {email = "fabian.rodrez@gmail.com"},
+    {name = "Fabian Rodriguez"},
+]
+description = "A boosted file watching library"
+license = "MIT"
