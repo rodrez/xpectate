@@ -1,0 +1,12 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "scripts": {
+    "tw-watch" : "npx tailwindcss -i css/input.css -o css/output.css --watch"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tailwindcss": "3.3.3"
+  }
+}
